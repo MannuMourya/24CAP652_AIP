@@ -105,10 +105,10 @@ user-management-admin/
 ## Screenshots
 
 ### Login Page
-![Login Page]("IMG\Screenshot 2025-04-10 115143.png")
+![Login Page]("IMG/Screenshot 2025-04-10 115143.png")
 
 ### Dashboard
-![Dashboard](IMG\dashboard.png)
+![Dashboard](IMG/dashboard.png)
 
 
 ## Installation & Setup
