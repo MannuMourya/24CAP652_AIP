@@ -1,0 +1,5 @@
+com\usermanagement\servlet\AuthServlet.class
+com\usermanagement\model\User.class
+com\usermanagement\dao\UserDAO.class
+com\usermanagement\servlet\UserServlet.class
+com\usermanagement\util\DatabaseUtil.class
